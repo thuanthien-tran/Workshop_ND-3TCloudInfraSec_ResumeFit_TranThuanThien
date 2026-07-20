@@ -18,13 +18,13 @@ Trang này tổng hợp các tài liệu tham khảo được sử dụng trong 
 
 ### Các chapter trong dự án
 
-* [5.3 Networking](../5.3-networking/)
-* [5.4 Security & Access](../5.4-security-access/)
-* [5.5 Storage & Queue](../5.5-storage-queue/)
-* [5.6 RDS Setup](../5.6-rds-setup/)
-* [5.7 Compute Setup](../5.7-compute-setup/)
-* [5.8 Scaling with ALB](../5.8-scaling-alb/)
-* [5.9 Monitoring](../5.9-monitoring/)
+* [5.3 Networking](vi/5-workshop/5.3-networking/)
+* [5.4 Security & Access](vi/5-workshop/5.4-security-access/)
+* [5.5 Storage & Queue](vi/5-workshop/5.5-storage-queue/)
+* [5.6 RDS Setup](vi/5-workshop/5.6-rds-setup/)
+* [5.7 Compute Setup](vi/5-workshop/5.7-compute-setup/)
+* [5.8 Scaling with ALB](vi/5-workshop/5.8-scaling-alb/)
+* [5.9 Monitoring](vi/5-workshop/5.9-monitoring/)
 
 ### Tài liệu AWS
 
@@ -44,14 +44,14 @@ Trang này tổng hợp các tài liệu tham khảo được sử dụng trong 
 
 ### Các chapter trong dự án
 
-* [5.1 Introduction](../5.1-introduction/)
-* [5.2 Prerequisites](../5.2-prerequisites/)
-* [5.7.1 Create EC2 Instance](../5.7-compute-setup/5.7.1-create-ec2-instance/)
-* [5.7.2 Shell Access and Software Setup](../5.7-compute-setup/5.7.2-connect-install-software/)
-* [5.8.1 AMI Creation and Launch Template Setup](../5.8-scaling-alb/5.8.1-configure-ami-launch-template/)
-* [5.8.2 Auto Scaling Group Setup](../5.8-scaling-alb/5.8.2-auto-scaling-group/)
-* [5.8.3 Target Group and ALB Setup](../5.8-scaling-alb/5.8.3-target-group-alb/)
-* [5.10 Testing](../5.10-testing/)
+* [5.1 Introduction](vi/5-workshop/5.1-introduction/)
+* [5.2 Prerequisites](vi/5-workshop/5.2-prerequisites/)
+* [5.7.1 Create EC2 Instance](vi/5-workshop/5.7-compute-setup/5.7.1-create-ec2-instance/)
+* [5.7.2 Shell Access and Software Setup](vi/5-workshop/5.7-compute-setup/5.7.2-connect-install-software/)
+* [5.8.1 AMI Creation and Launch Template Setup](vi/5-workshop/5.8-scaling-alb/5.8.1-configure-ami-launch-template/)
+* [5.8.2 Auto Scaling Group Setup](vi/5-workshop/5.8-scaling-alb/5.8.2-auto-scaling-group/)
+* [5.8.3 Target Group and ALB Setup](vi/5-workshop/5.8-scaling-alb/5.8.3-target-group-alb/)
+* [5.10 Testing](vi/5-workshop/5.10-testing/)
 
 ### Tài liệu tham khảo ngoài
 
@@ -67,7 +67,7 @@ Trang này tổng hợp các tài liệu tham khảo được sử dụng trong 
 
 ### Các chapter trong dự án
 
-* [5.11 Clean Up Resources](../5.11-cleanup/)
+* [5.11 Clean Up Resources](vi/5-workshop/5.11-cleanup/)
 
 ### Tài liệu tham khảo ngoài
 

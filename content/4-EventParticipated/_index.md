@@ -9,7 +9,7 @@ pre: " <b> 4. </b> "
 
 During my internship, I had the opportunity to participate in 3 community events hosted by AWS and FCAJ. These were valuable experiences that helped me gain practical knowledge and network with industry professionals.
 
-### [Event 1](4.1-Event1/)  
+### [Event 1](4-eventparticipated/4.1-event1/)  
 &emsp;**Event Name:** FCAJ Community Day  
 
 &emsp;**Date & Time:** May 09, 2026  
@@ -20,7 +20,7 @@ During my internship, I had the opportunity to participate in 3 community events
 
 ---
 
-### [Event 2](4.2-Event2/)  
+### [Event 2](4-eventparticipated/4.2-event2/)  
 &emsp;**Event Name:** FCAJ Community Day  
 
 &emsp;**Date & Time:** May 23, 2026 (Weekend Morning)  
@@ -31,7 +31,7 @@ During my internship, I had the opportunity to participate in 3 community events
 
 ---
 
-### [Event 3](4.3-Event3/)  
+### [Event 3](4-eventparticipated/4.3-event3/)  
 &emsp;**Event Name:** FCAJ Community  
 
 &emsp;**Date & Time:** Academic Networking Event (Collaborated with HUTECH University and Swinburne University of Technology)  
