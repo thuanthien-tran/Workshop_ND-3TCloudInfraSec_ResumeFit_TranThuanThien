@@ -1,11 +1,11 @@
 ---
-title: "5.11. Clean Up Resources"
+title: "5.11. Clean Up & Cost"
 date: 2024-01-01
 weight: 11
 chapter: false
 ---
 
-## 5.11. Clean Up Resources
+## 5.11. Clean Up & Cost
 
 After completing evaluations, clean up the resources to avoid active AWS subscription bills:
 

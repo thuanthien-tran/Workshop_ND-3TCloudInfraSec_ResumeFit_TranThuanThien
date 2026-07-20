@@ -1,11 +1,11 @@
 ---
-title: "5.11. Dọn dẹp tài nguyên"
+title: "5.11. Dọn dẹp tài nguyên & Chi phí"
 date: 2024-01-01
 weight: 11
 chapter: false
 ---
 
-## 5.11. Dọn dẹp tài nguyên (Clean up)
+## 5.11. Dọn dẹp tài nguyên & Chi phí (Clean up & Cost)
 
 Sau khi hoàn tất quá trình workshop và kiểm thử, để tránh phát sinh chi phí duy trì hạ tầng không cần thiết trên AWS, hãy tiến hành:
 

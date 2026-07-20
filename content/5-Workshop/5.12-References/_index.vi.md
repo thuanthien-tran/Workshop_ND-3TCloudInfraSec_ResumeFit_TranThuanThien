@@ -67,7 +67,7 @@ Trang này tổng hợp các tài liệu tham khảo được sử dụng trong 
 
 ### Các chapter trong dự án
 
-* [5.11 Clean Up Resources](vi/5-workshop/5.11-cleanup/)
+* [5.11 Clean Up & Cost](vi/5-workshop/5.11-cleanup/)
 
 ### Tài liệu tham khảo ngoài
 

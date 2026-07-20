@@ -67,7 +67,7 @@ This page consolidates the references used throughout the **Resume Fit** worksho
 
 ### Project chapters
 
-* [5.11 Clean Up Resources](5-workshop/5.11-cleanup/)
+* [5.11 Clean Up & Cost](5-workshop/5.11-cleanup/)
 
 ### External references
 
