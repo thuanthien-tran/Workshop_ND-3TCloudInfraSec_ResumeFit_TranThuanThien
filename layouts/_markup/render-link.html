@@ -1,0 +1,4 @@
+﻿{{- $destination := .Destination -}}
+{{- $isRemote := or (strings.HasPrefix $destination "http://") (strings.HasPrefix $destination "https://") (strings.HasPrefix $destination "mailto:") (strings.HasPrefix $destination "tel:") -}}
+{{- $localDestination := strings.TrimPrefix "/" $destination -}}
+<a href="{{ if $isRemote }}{{ $destination | safeURL }}{{ else }}{{ $localDestination | relURL }}{{ end }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}</a>
