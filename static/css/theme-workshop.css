@@ -226,3 +226,21 @@ div.notices.info p {
   border-top: 30px solid #fd9827;
   background: #fff2db;
 }
+
+/* Fix sidebar active item contrast: keep the active parent/current page readable on dark menu. */
+#sidebar ul li.active > a {
+  background: transparent !important;
+  color: var(--MENU-SECTIONS-LINK-HOVER-color) !important;
+  font-weight: 700;
+}
+
+#sidebar ul.topics > li.active > a,
+#sidebar ul.topics > li.parent > a {
+  background: transparent !important;
+  color: var(--MENU-SECTIONS-LINK-HOVER-color) !important;
+  font-weight: 700;
+}
+
+#sidebar ul li.active > a .read-icon {
+  color: var(--MENU-VISITED-color) !important;
+}

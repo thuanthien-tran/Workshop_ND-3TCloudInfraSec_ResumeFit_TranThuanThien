@@ -26,14 +26,15 @@ pre: " <b> 4.2. </b> "
 ---
 
 ### Speaker List
-*   **Quynh Mai:** MC and host of the event.
-*   **Nguyen Gia Hung:** Head of Solution Architecture at AWS Vietnam and Founder of the FCAJ community.
-*   **Tinh:** Platform Engineer at Gotam X.
-*   **Hai Anh:** Pacific Vietnam, previously presented at AWS Singapore Summit and Silicon Valley.
-*   **Thinh:** DevOps Engineer at UTM Group, presenting the team's Hackathon project.
-*   **Duc:** LLM Optimization Specialist.
-*   **Vy:** VPBank, presenting on Enterprise Multi-Agent systems.
 
+*   **Quynh Mai:** Event MC and program host.
+*   **Nguyen Gia Hung:** Head of Solution Architecture at AWS Vietnam and Founder of FCAJ.
+*   **Speaker 1 (Mr. Tinh):** Platform Engineer at Gotam X.
+*   **Speaker 2 (Ms. Hai Anh):** Professional at Pacific Vietnam; previously presented at AWS Singapore Summit and in Silicon Valley.
+*   **Speaker 3 (Mr. Thinh):** DevOps Engineer.
+*   **Speaker 4 (UTM Team):** Developers sharing their Hackathon project experience.
+*   **Speaker 5 (Mr. Duc):** Technical sharing on Large Language Model Optimization (LLM Optimization).
+*   **Speaker 6 (Ms. Vy):** Professional at VPBank, sharing insights on Enterprise Multi-Agent systems.
 ---
 
 ### Key Highlights

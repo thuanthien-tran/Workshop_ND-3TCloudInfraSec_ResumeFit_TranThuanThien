@@ -26,14 +26,15 @@ pre: " <b> 4.2. </b> "
 ---
 
 ### Danh Sách Diễn Giả
-*   **Quỳnh Mai:** MC dẫn dắt chương trình.
-*   **Nguyễn Gia Hưng:** Head of Solution Architect tại AWS Vietnam, đồng thời là Founder của cộng đồng FCAJ.
-*   **Anh Tịnh:** Platform Engineer tại Gotam X.
-*   **Anh Hải Anh:** Làm việc tại Pacific Vietnam, từng là diễn giả tại AWS Singapore Summit và Silicon Valley.
-*   **Anh Thịnh:** DevOps Engineer tại UTM Group, đại diện nhóm Developers chia sẻ về dự án thi Hackathon.
-*   **Anh Đức:** Chuyên gia tối ưu hóa mô hình ngôn ngữ lớn (LLM Optimization).
-*   **Chị Vy:** Làm việc tại VPBank, trình bày chuyên đề về hệ thống Enterprise Multi-Agent.
 
+*   **Quỳnh Mai:** MC chương trình.
+*   **Nguyễn Gia Hưng:** Head of Solution Architect tại AWS Việt Nam, Người sáng lập FCAJ.
+*   **Speaker 1 - Anh Tịnh:** Platform Engineer tại Gotam X.
+*   **Speaker 2 - Chị Hải Anh:** Đang làm việc ở Pacific Việt Nam (từng present ở AWS Singapore Summit, Silicon Valley).
+*   **Speaker 3 - Anh Thịnh:** DevOps Engineer.
+*   **Speaker 4 - Nhóm UTM:** Developers (đồng nghiệp tại công ty chia sẻ về dự án thi Hackathon).
+*   **Speaker 5 - Anh Đức:** Chia sẻ về kỹ thuật và tối ưu hóa của mô hình ngôn ngữ lớn (LLM Optimization).
+*   **Speaker 6 - Chị Vy:** Đang công tác tại VPBank, chia sẻ về hệ thống Enterprise Multi-agent.
 ---
 
 ### Nội Dung Nổi Bật
